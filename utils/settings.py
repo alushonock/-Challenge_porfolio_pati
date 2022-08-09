@@ -6,10 +6,10 @@ from selenium.webdriver.common.by import By
 SYSTEM = sys.platform
 PATH_TO_PROJECT = os.path.dirname(os.path.abspath(__file__))
 
-if SYSTEM == 'win32':
-    CHROME_DRIVER = "chromedriver.exe"
+if SYSTEM == 'mac':
+    CHROME_DRIVER = "chromedriver-2"
 else:
-    CHROME_DRIVER = "chromedriver"
+    CHROME_DRIVER = "chromedriver-3"
 
 DRIVER_PATH = os.path.join(PATH_TO_PROJECT, '../drivers', CHROME_DRIVER)
 IMPLICITLY_WAIT = 3

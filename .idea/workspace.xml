@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01cfa141-3ef6-4521-b2bd-616732ab94cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver-2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md 2" beforeDir="false" afterPath="$PROJECT_DIR$/README.md 2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2D4fJYK3IEGsJlPvG3J9kMdyWOp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,8 +32,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/alina/Documents/GitHub/-Challenge_porfolio_pati&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/alina/Documents/GitHub/-Challenge_porfolio_alushonock&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
@@ -42,9 +43,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python tests.pytest for framework.Test">
+  <component name="RunManager" selected="Python tests.pytest in framework.py">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="-Challenge_porfolio_pati" />
+      <module name="-Challenge_porfolio_alushonock" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -64,8 +65,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for framework.Test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="-Challenge_porfolio_alushonock" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;framework.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for framework.Test.test_print_nice_words" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="-Challenge_porfolio_pati" />
+      <module name="-Challenge_porfolio_alushonock" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -81,7 +98,7 @@
       <method v="2" />
     </configuration>
     <configuration name="pytest in framework.py" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="-Challenge_porfolio_pati" />
+      <module name="-Challenge_porfolio_alushonock" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -112,9 +129,17 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python tests.pytest in framework.py" />
+      <item itemvalue="Python tests.pytest for framework.Test" />
+      <item itemvalue="Python tests.pytest for framework.Test.test_print_nice_words" />
+      <item itemvalue="Python tests.pytest in test_cases" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.__init__" />
+        <item itemvalue="Python tests.pytest for framework.Test" />
         <item itemvalue="Python tests.pytest for framework.Test.test_print_nice_words" />
         <item itemvalue="Python tests.pytest in test_cases" />
       </list>
